@@ -10,7 +10,7 @@ HEADER="#profile-title: LLxickVPN
 "
 
 for f in vpn.txt vpn_renamed.txt vpn_base64.txt vpn_renamed_base64.txt bobi_vpn.txt bobi_vpn_lite.txt bobi_vpn_base64.txt countries/*.txt; do
-    [ -f "$f" ] && echo "$HEADER$(cat $f)" > "$f"
+    [ -f "$f" ] && sed -i '/^#/d' "$f" && echo "$HEADER$(cat $f)" > "$f"
 done
 
 git add -A

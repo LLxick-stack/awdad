@@ -3,4 +3,4 @@
 #profile-update-interval: 1
 #announce: UPD: 06.03.2026 21:25 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#🇸🇪 Sweden | Cloudflare, 1
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#🇫🇷 France | SCALEWAY 1
