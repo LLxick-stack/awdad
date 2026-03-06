@@ -1,15 +1,16 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 06.03.2026 23:00 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 06.03.2026 23:15 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://77777777-6663-4ef2-b26b-ed2d70642678@104.18.42.163:2087?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560&host=xsfvxv55x1.fx03.ccwu.cc&sni=xsfvxv55x1.fx03.ccwu.cc#🇫🇮 Finland | Cloudflare, 1
-vless://0d3e2d21-f31b-0bb8-b418-54cacd0be7c4@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#🇫🇮 Finland | H2nexus LTD 1
-vless://fba7dc74-ed99-0bb8-8b5f-a822f254475f@146.185.240.139:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 2
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#🇫🇮 Finland | H2nexus LTD 3
-vless://4fd2d5f6-d417-0bb8-9331-e20afde2fcd2@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 4
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#🇫🇮 Finland | H2nexus LTD 5
-vless://fba7dc74-ed99-0bb8-8b5f-a822f254475f@109.120.188.238:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 6
-vless://711f56b0-0d4c-4516-bea6-0e963749928c@85.192.48.209:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&type=tcp&headerType=none#🇫🇮 Finland | H2nexus LTD 7
-vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@109.120.191.55:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 8
-vless://fba7dc74-ed99-0bb8-8b5f-a822f254475f@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 9
+vless://a5ca6aa5-0354-0bb8-b094-741b1dfe4daa@109.120.189.117:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 1
+vless://a5ca6aa5-0354-0bb8-b094-741b1dfe4daa@146.185.240.139:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 2
+vless://a5ca6aa5-0354-0bb8-b094-741b1dfe4daa@109.120.188.238:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 3
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.15:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#🇫🇮 Finland | H2nexus LTD 4
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@85.192.49.176:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg#🇫🇮 Finland | H2nexus LTD 5
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.230:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my-rebar.shop&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&type=tcp&headerType=none#🇫🇮 Finland | H2nexus LTD 6
+vless://fba7dc74-ed99-0bb8-8b5f-a822f254475f@146.185.242.115:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 7
+vless://4fd2d5f6-d417-0bb8-9331-e20afde2fcd2@146.185.240.139:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 8
+vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@109.120.188.238:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 9
+vless://c978c337-fd96-0bb8-9758-dce2fc3ae278@109.120.189.117:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 10
+vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@109.120.191.55:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇫🇮 Finland | H2nexus LTD 11
