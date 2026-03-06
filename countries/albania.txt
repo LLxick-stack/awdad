@@ -1,3 +1,7 @@
+#profile-title: LLxickVPN
+#support-url: https://t.me/LLxick2
+#profile-update-interval: 1
+#announce: UPD: 06.03.2026 21:23 | обновление каждые 15 мин | тгк @LLxickVPN
 #profile-update-interval: 1
 #profile-title: 🌍 BobiVPN Albania
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
