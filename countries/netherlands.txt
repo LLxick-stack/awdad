@@ -1,7 +1,7 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 03:30 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 03:46 | обновление каждые 15 мин | тгк @LLxickVPN
 
 vless://150c4fa9-52f5-4e18-aee7-fe2a1f455131@51.250.3.29:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=%2F#🇳🇱 Netherlands | "HOSTOFF CSL" 1
 vless://e08736d8-aec2-4400-bd42-e34daf4a96d4@185.86.147.245:4244?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=wRSjB3MgSq4ZTB4XxtVtRtVE5otolCnBDjMPlWPPnnU&sid=abcd1234#🇳🇱 Netherlands | Dedik Services 1
