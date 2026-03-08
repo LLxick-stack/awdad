@@ -1,9 +1,9 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 03:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 04:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.171.76:8444?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇺🇸 United States | Atlantic.net 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.110.39:2053?type=ws&security=tls&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in#🇺🇸 United States | Atlantic.net 2
-vless://f791583a-e706-4c75-b35d-f854e5191cbe@79.137.174.191:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1
-vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.209.148:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇺🇸 United States | WorkTitans B.V. 1
+vless://00a9b792-2bb4-437b-9228-565c1c994f1c@104.21.29.205:443?encryption=none&security=tls&sni=aaassd.222560.xyz&insecure=0&allowInsecure=0&type=ws&host=aaassd.222560.xyz&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6#🇺🇸 United States | HostPapa 1
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.215.240:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=bfbg.2nn.ccwu.cc&sni=bfbg.2nn.ccwu.cc#🇺🇸 United States | Massivegrid LTD 1
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.18.185.26:443?encryption=none&type=ws&security=tls&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&host=nmj.1x0.indevs.in&sni=nmj.1x0.indevs.in#🇺🇸 United States | Massivegrid LTD 2
+vless://f791583a-e706-4c75-b35d-f854e5191cbe@79.137.174.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=60e104f7126798c4#🇺🇸 United States | UAB Cherry Servers 1

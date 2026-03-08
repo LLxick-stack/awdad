@@ -1,6 +1,6 @@
 #profile-title: LLxickVPN
 #support-url: https://t.me/LLxick2
 #profile-update-interval: 1
-#announce: UPD: 08.03.2026 03:46 | обновление каждые 15 мин | тгк @LLxickVPN
+#announce: UPD: 08.03.2026 04:01 | обновление каждые 15 мин | тгк @LLxickVPN
 
-vless://943d76a9-e331-4429-b38c-4b10876e4561@95.163.209.148:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇷 France | Aeza International LTD 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.120.129:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#🇫🇷 France | F5 Networks SARL 1
